@@ -17,6 +17,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\UltraShopUZ\Documents\GitHub\shop\src\pages\img" />
+      <recent name="C:\Users\UltraShopUZ\Documents\GitHub\shop\src\pages\js" />
+      <recent name="C:\Users\UltraShopUZ\Documents\GitHub\shop\src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -40,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657960577878</updated>
       <workItem from="1657960579116" duration="338000" />
-      <workItem from="1657962226490" duration="1111000" />
+      <workItem from="1657962226490" duration="1603000" />
     </task>
     <servers />
   </component>
